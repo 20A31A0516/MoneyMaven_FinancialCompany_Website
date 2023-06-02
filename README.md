@@ -1,1 +1,1 @@
-# MoneyMaven_FinancialComapny_Website
+# MoneyMaven_FinancialCompany_Website
